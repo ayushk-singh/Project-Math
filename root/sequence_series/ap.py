@@ -17,10 +17,11 @@ console = Console()
 
 
 def mainSqSeries(): 
-    console.print("How may I help you!! :heart:",justify="center",style="blink yellow")
+    console.print("How may I help you!! :heart:",justify="center",style="bold underline yellow")
     console.print("")
     console.print("Chosse which operation you want to do :")
-    console.print('''1. Find number of terms when First and last term of AP is given.
+    console.print('''
+    1. Find number of terms when First and last term of AP is given.
     2. Find last term when first term, number of term and common ratio given.
     3. Find the sum of nth term of GP.    
     ''')
@@ -84,6 +85,4 @@ def mainSqSeries():
 #number_of_terms_answer=number_of_terms_minus_1+1
 #ndividedby2=n/2
 #sum_answer=ndividedby2*(a+l)
-
-
 #==================xXx=============================
