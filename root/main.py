@@ -60,7 +60,7 @@ while x == "y":
 
     selection()
     print("")
-    x = Prompt.ask("🚀 [bold red]Enter y to continue and n to exit: [/bold red]")
+    x = Prompt.ask("🚀 [bold red]Enter y to continue or any key to exit: [/bold red]")
     console.print("Thanks for using Math Lab 💻",justify="center",style="bold underline green")
 
 
