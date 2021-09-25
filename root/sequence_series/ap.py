@@ -41,8 +41,14 @@ def mainSqSeries():
 
         difference_of_1st_and_last_term=(l-a)
         number_of_terms_minus_1=difference_of_1st_and_last_term/d
-        number_of_terms_answer=number_of_terms_minus_1+1
-        print("The number of terms in the AP is :",number_of_terms_answer)
+        
+        if difference_of_1st_and_last_term%d==0:
+           number_of_terms_answer=number_of_terms_minus_1+1
+           print("The number of terms in the AP is :",number_of_terms_answer)
+        else:
+            print("Wrong input provided")
+            print("It is not an AP.")
+
         
     #Sum of n number of terms 
     
