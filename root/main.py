@@ -12,7 +12,6 @@ from rich.prompt import Prompt
 console = Console()  # creating a console object
 
 
-
 # initilizing x = y for while loop
 x = "y"
 
