@@ -4,6 +4,7 @@ from rich import prompt
 from rich import style
 from rich.style import Style
 from calculator.calculator import calculator
+from anglevalue.angle import angle
 from rich.console import Console 
 from rich.markdown import Markdown
 from sequence_series.ap import mainSqSeries
@@ -49,7 +50,7 @@ while x == "y":
             calculator()
         elif choice == '3':
             print("")
-            print("Trignometric coming soon")
+            angle()
         else:
             console.print("Please Enter a valid input", style="Red on black")
 
