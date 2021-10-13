@@ -23,7 +23,7 @@ while x == "y":
         What operation do you want to perform:
         1. Sequence and Series
         2. Basic Calculator
-        3. Finding the value of trignometric ratio
+        3. Angle Converter
 
         Please select operation from '1' '2' or '3'
         """
