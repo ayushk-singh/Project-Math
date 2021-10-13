@@ -2,7 +2,6 @@ from rich.console import Console
 from rich.markdown import Markdown
 import math
 
-#Comment
 console = Console()
 
 def angle():
