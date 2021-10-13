@@ -22,11 +22,10 @@ while x == "y":
 
         What operation do you want to perform:
         1. Sequence and Series
-        2. Complex Number
-        3. Basic Calculator
-        4. Finding the value of trignometric ratio
+        2. Basic Calculator
+        3. Finding the value of trignometric ratio
 
-        Please select operation from '1' '2' '3' or '4'
+        Please select operation from '1' '2' or '3'
         """
         resultMsg = Markdown(message)
         console.print(resultMsg)
@@ -47,13 +46,10 @@ while x == "y":
             mainSqSeries()
         elif choice == '2':
             print("")
-            print("Working2")
+            calculator()
         elif choice == '3':
             print("")
-            calculator()
-        elif choice == '4':
-            print("")
-            print("Working4")
+            print("Trignometric coming soon")
         else:
             console.print("Please Enter a valid input", style="Red on black")
 
