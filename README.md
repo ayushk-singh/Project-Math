@@ -1,6 +1,8 @@
 
 # Project-Math
 
+[![Licence](https://img.shields.io/github/license/Ayush-Singh-Code/Project-Math?style=plastic)](https://github.com/Ayush-Singh-Code/Project-Math/blob/main/LICENSE)
+
 It is a mathematical tool for solving Maths. The tool is specially helpul to those who want to have grip at the subject.
 
 The following topics as of now are available :
