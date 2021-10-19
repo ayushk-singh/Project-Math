@@ -13,10 +13,10 @@ The following topics as of now are available :
 
 ### Sequence and series
 In sequence and series, problems related to **AP** and **GP** can be solved.
-#### AP and GP : Operations which are available.
-1) Find number of terms when First and last term of AP is given.
-2) Find last term when first term, number of term and common ratio given.
-3) Find the sum of nth term of GP.
+ #### AP and GP : Operations which are available.
+ 1) Find number of terms when First and last term of AP is given.
+ 2) Find last term when first term, number of term and common ratio given.
+ 3) Find the sum of nth term of GP.
 
 ### Basic Calculator
 Just as described above it is a basic calculator. The code can be used for practise and project work.
