@@ -26,7 +26,9 @@ Just as described above it is a basic calculator. The code can be used for pract
  1) Conversion from Degree to Radian.
  2) Conversion from Radian to Degree.
 
- 
+## Dependency
+- Rich 10.12.0
+
 ## Authors
 
 - [Anupriyam](https://www.github.com/Anupriyam-FOSD)
