@@ -28,8 +28,10 @@ Just as described above it is a basic calculator. The code can be used for pract
 
 ## Requirements
 - Go to project-folder
-- Create a virtual environment and type `pip install -r requirements.txt` in your terminal
-
+- Create a virtual environment and type the following command in your terminal
+```bash
+pip install -requirements.txt
+```
 ## Authors
 
 - [Anupriyam](https://www.github.com/Anupriyam-FOSD)
