@@ -34,7 +34,7 @@ pip install -requirements.txt
 ```
 ## Authors
 
-- [Anupriyam](https://www.github.com/Anupriyam-FOSD)
+- [Anupriyam](https://www.github.com/anupriyamshukla)
 - [Ayush](https://www.github.com/ayushk-singh)
 
 
