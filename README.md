@@ -35,7 +35,7 @@ pip install -requirements.txt
 ## Authors
 
 - [Anupriyam](https://www.github.com/Anupriyam-FOSD)
-- [Ayush](https://www.github.com/Ayush-Singh-Code)
+- [Ayush](https://www.github.com/ayushk-singh)
 
 
   
